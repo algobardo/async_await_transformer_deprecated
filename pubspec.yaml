@@ -2,7 +2,7 @@ name: async_await
 description: Compile-time support for "async/await" syntax in Dart.
 dependencies:
   analyzer: "any"
-  barback: '>=0.15.0 <0.16.0'
+  barback: 'any'
 dev_dependencies:
   http: any
   unittest: any
